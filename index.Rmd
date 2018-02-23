@@ -1,0 +1,45 @@
+---
+title: <small>An introduction to digital open <br>research in clinical psychology</small>
+author: <small>Matthias Weiler</small>
+date: <small>01.03.2018</small>
+output:
+  revealjs::revealjs_presentation:
+    theme: black
+    center: TRUE
+    self_contained: FALSE
+    incremental: TRUE
+    reveal_plugins: ["chalkboard"]
+    reveal_options:
+      chalkboard: 
+      readonly: FALSE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# <small> What we did last week... </small>
+
+----
+
+Any questions or anything to add?
+
+# <small>Last week's homework</small>
+
+# <small>Today:<br>Scientific pitfalls and how to avoid them</small>
+
+# <small>Any more questions?</small>
+
+# <small>Preview: next Saturday</small>
+
+----
+
+"Your personal open science project"
+
+----
+
+On Saturday at 12:30 p.m.
+
+# <small>Homework</small>
+
+# <small>Thank you for your attention</small>
