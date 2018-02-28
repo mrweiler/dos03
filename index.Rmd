@@ -22,11 +22,131 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ----
 
+We looked at projects <br>
+for mass collaboration
+
+----
+
+Then we looked at the <br>
+preregistration process <br>
+and registered reports
+
+----
+
+And we talked about tools <br>
+for digital open scientists
+
+----
+
 Any questions or anything to add?
 
 # <small>Last week's homework</small>
 
+----
+
+Who of you could take a look at  <br>
+the experiments and surveys at <br>
+<a href="https://expfactory.github.io/expfactory/">The Experiment Factory</a>?
+
+----
+
+Who found something interesting?
+
+----
+
+Who did not?
+
+----
+
+Any questions about <br>
+the experiment factory?
+
 # <small>Today:<br>Scientific pitfalls and how to avoid them</small>
+
+----
+
+The hypothetico-deductive model  
+![The hypothetico-deductive model](img/hypothetico_deductive_model.jpg)  
+<small>Source: Munafo et al. (2017)</small>
+
+----
+
+## <small>Scientific pitfalls</small>
+
+- Where do you see room for "problems"?  
+- What kind of problems?  
+- Please discuss with your neighbors.
+
+----
+
+The hypothetico-deductive model  
+![The hypothetico-deductive model](img/hypothetico_deductive_model.jpg)  
+<small>Source: Munafo et al. (2017)</small>
+
+----
+
+The hypothetico-deductive model  
+![The hypothetico-deductive model](img/s41562-016-0021-f1.jpg)  
+<small>Source: Munafo et al. (2017)</small>
+
+----
+
+## <small>Failure to control for bias</small>
+
+<a href = "https://en.wikipedia.org/w/index.php?title=List_of_cognitive_biases">List of cognitive biases</a>
+
+----
+
+## <small>Low statistical power</small>
+
+- $\alpha$: The conditional probability of incorrectly <br>
+  rejecting H0 when it actually is true.
+- $\beta$: The conditional probability of failing <br>
+  to reject H0 when it is false.
+- Power: The complement of β (i.e. 1 - β), this is the <br>
+  probability of correctly rejecting H0 when it is false.
+- <a href="http://rpsychologist.com/d3/NHST/">Understanding Statistical Power <br>
+  and Significance Testing</a>
+
+----
+
+## <small>Poor quality control</small>
+
+----
+
+## <small>p-hacking</small>
+
+<a href = "http://shinyapps.org/apps/p-hacker/">p-hacker</a>
+
+----
+
+## <small>Publication bias</small>
+
+# <small>Solutions</small>
+
+----
+
+## <small>A 21 word solution</small>  
+“We report how we determined our <br>
+sample size, all data exclusions <br>
+(if any), all manipulations, and <br>
+all measures in the study.”  
+<small>Simmons et al. (2012)</small>
+
+----
+
+## <small>A manifesto for reproducible science</small>
+
+<a href = "https://www.nature.com/articles/s41562-016-0021/tables/1"> Munafò et al.</a>
+
+----
+
+## <small>TOP Guidelines</small>
+
+- TOP: Transparency and Openness Promotion
+- Guidelines for journals 
+- 4 levels of openness
+- <a href = https://mfr.osf.io/render?url=https://osf.io/2cz65/?action=download%26mode=render>TOP Guidelines</a>
 
 # <small>Any more questions?</small>
 
