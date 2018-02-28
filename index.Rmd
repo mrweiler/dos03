@@ -93,7 +93,9 @@ The hypothetico-deductive model
 
 ## <small>Failure to control for bias</small>
 
-<a href = "https://en.wikipedia.org/w/index.php?title=List_of_cognitive_biases">List of cognitive biases</a>
+- Humans are prone to <a href = "https://en.wikipedia.org/w/index.php?title=List_of_cognitive_biases">cognitive biases</a>
+- Scientists are humans (too)
+- Scientists are prone to cognitive biases (too)
 
 ----
 
@@ -112,20 +114,37 @@ The hypothetico-deductive model
 
 ## <small>Poor quality control</small>
 
+- Risk of "noisy data"
+- Leads to low power
+
 ----
 
 ## <small>p-hacking</small>
 
-<a href = "http://shinyapps.org/apps/p-hacker/">p-hacker</a>
+![P-Values](img/p_values.png)  
+<small><a href = "https://imgs.xkcd.com/comics/p_values.png">"P-Values"</a> by <a href = "xkcd.com">xkcd.com</a> is licensed under <a href = "https://creativecommons.org/licenses/by-nc/2.5/">CC BY-NC 2.5</a></small>
+
+----
+
+## <small>p-hacking</small>
+
+- Also called <a href = "https://en.wikipedia.org/wiki/Data_dredging">data dredging</a> is the<br>art of getting significant results
+- <a href = "http://shinyapps.org/apps/p-hacker/">p-hacker: Train your p-hacking skills!</a>
 
 ----
 
 ## <small>Publication bias</small>
 
+- Positive and novel studies are <br>
+  more likely to be published
+- Negative studies and replications <br>
+  remain inside the scientists' drawers
+
 ----
 
 ## <small>HARKing</small>
 
+- Hypothesizing After the Results are Known
 
 # <small>Solutions</small>
 
@@ -155,6 +174,13 @@ all measures in the study.”
 
 # <small>Any more questions?</small>
 
+#
+# <small>tl;dr</small>
+
+----
+
+<a href = "https://www.youtube.com/watch?v=42QuXLucH3Q">Is Most Published Research Wrong?</a>
+
 # <small>Preview: next Saturday</small>
 
 ----
@@ -166,5 +192,14 @@ all measures in the study.”
 On Saturday at 12:30 p.m.
 
 # <small>Homework</small>
+
+----
+
+If you haven't, take a look at <br>
+<a href="https://expfactory.github.io/expfactory/">The Experiment Factory</a>
+
+----
+
+Collect questions regarding your research projects
 
 # <small>Thank you for your attention</small>
