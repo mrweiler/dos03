@@ -58,10 +58,35 @@ Who did not?
 
 ----
 
+Why?
+
+----
+
 Any questions about <br>
 the experiment factory?
 
 # <small>Today:<br>Scientific pitfalls and how to avoid them</small>
+
+----
+
+## <small>The replication crisis</small>
+
+- In 2015 a group of researchers <br>
+  tried to replicate 100 studies
+- The mean effect size of the replication <br>
+  effects was half the magnitude of the <br>
+  mean effect size of the original effects
+- 97 % of original studies had significant results 
+- Only 36 % replications had significant results
+
+----
+
+## <small>The replication crisis</small>
+
+![Estimating the reproducibility of psychological science](img/F1.large_50.jpg)  
+<small>Source: Open Science Collaboration (2015)</small>
+
+# <small>Science: what could go wrong?</small>
 
 ----
 
@@ -91,10 +116,20 @@ The hypothetico-deductive model
 
 ----
 
+## <small>HARKing</small>
+
+- "Hypothesizing After the Results are Known"
+- Very recent example: <a href = https://www.buzzfeed.com/stephaniemlee/brian-wansink-cornell-p-hacking>Pizzagate</a>
+- "I don’t think I’ve ever done an <br>
+  interesting study where the data <br>
+  ‘came out’ the first time I looked at it"
+
+----
+
 ## <small>Failure to control for bias</small>
 
 - Humans are prone to <a href = "https://en.wikipedia.org/w/index.php?title=List_of_cognitive_biases">cognitive biases</a>
-- Scientists are humans (too)
+- Scientists are humans
 - Scientists are prone to cognitive biases (too)
 
 ----
@@ -114,8 +149,9 @@ The hypothetico-deductive model
 
 ## <small>Poor quality control</small>
 
-- Risk of "noisy data"
-- Leads to low power
+- <a href = "http://andrewgelman.com/2015/04/28/whats-important-thing-statistics-thats-not-textbooks/">"Bad things happen when we don’t <br>think seriously about measurement"</a>
+- Sloppy measurement often <br>leads to "noisy data"
+- Noisy data leads to low statistical power
 
 ----
 
@@ -139,12 +175,7 @@ The hypothetico-deductive model
   more likely to be published
 - Negative studies and replications <br>
   remain inside the scientists' drawers
-
-----
-
-## <small>HARKing</small>
-
-- Hypothesizing After the Results are Known
+- Favorite example: <a href = "https://de.scribd.com/doc/266969860/Chocolate-causes-weight-loss">"Chocolate causes weight loss"</a>
 
 # <small>Solutions</small>
 
@@ -168,18 +199,11 @@ all measures in the study.”
 ## <small>TOP Guidelines</small>
 
 - TOP: Transparency and Openness Promotion
-- Guidelines for journals 
-- 4 levels of openness
+- Transparency guidelines for journals 
 - <a href = https://mfr.osf.io/render?url=https://osf.io/2cz65/?action=download%26mode=render>TOP Guidelines</a>
 
 # <small>Any more questions?</small>
 
-#
-# <small>tl;dr</small>
-
-----
-
-<a href = "https://www.youtube.com/watch?v=42QuXLucH3Q">Is Most Published Research Wrong?</a>
 
 # <small>Preview: next Saturday</small>
 
@@ -191,6 +215,7 @@ all measures in the study.”
 
 On Saturday at 12:30 p.m.
 
+
 # <small>Homework</small>
 
 ----
@@ -200,6 +225,13 @@ If you haven't, take a look at <br>
 
 ----
 
-Collect questions regarding your research projects
+Collect questions, hopes, and fears <br>
+regarding your research projects
+
+# <small>tl;dr</small>
+
+----
+
+<a href = "https://www.youtube.com/watch?v=42QuXLucH3Q">Is Most Published Research Wrong?</a>
 
 # <small>Thank you for your attention</small>
